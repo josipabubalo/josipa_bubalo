@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Dokument */
+p {
+    color: #1A5276;
+    font-family: "Goudy Bookletter 1911", sans-serif;
+    font-size: 16px;
+    line-height: 18px;
+    width: 600px;
+    background-color: #E8DAEF;
+    padding: 20px
+
+}
+h1, h2 {
+  font-family: cursive;
+  color: #6600FF;
+}
+
+span {color:  rgb(255, 0, 255);}
+body {
+  background-image: url(C:\Users\josip\Desktop\slike-dm\IMG_3597.JPG);
+  background-color: #FF99FF;
+}
+a:link {
+      color: black;
+      background-color: #66FF00;
+      padding: 0,2px;
+      line-height: 1px solid #66FF00;
+}
+a:hover {
+  background-color: darkgrey;
+}
+img {
+  height: 200px;
+}
